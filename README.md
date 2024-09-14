@@ -1,4 +1,4 @@
-# Futuristic Template README 🚀
+# Futuristic Template 🚀
 
 ## Overview 🌟
 
@@ -13,7 +13,7 @@ Welcome to the **Futuristic Template**! This is a sleek and modern template desi
 
 ## Getting Started 🚀
 
-1. **Download the Template**: Clone or download the repository.
+1. **Download the Template**: Clone or download the repository.a
 2. **Open in Browser**: Launch `index.html` in your preferred web browser to see the template in action.
 3. **Customize**: Edit the HTML and CSS files to tailor the template to your needs.
 
