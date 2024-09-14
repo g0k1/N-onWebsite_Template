@@ -1,7 +1,7 @@
 # Futuristic Template 🚀
+![image](https://github.com/user-attachments/assets/700fbd08-16f1-469e-afa5-e12e6327dc23)
 
 ## Overview 🌟
-![image](https://github.com/user-attachments/assets/700fbd08-16f1-469e-afa5-e12e6327dc23)
 
 Welcome to the **Futuristic Template**! This is a sleek and modern template designed for those who want to create a stunning online presence. With professional and lightweight animations, it’s perfect for portfolios, landing pages, or personal websites.
 
